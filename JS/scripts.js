@@ -25,6 +25,3 @@ window.onscroll=function(){ //para que detecte cuando se hace scroll y desaparez
         buttonUp.style.transform="scale(0)"
     }
 }
-
-
-
